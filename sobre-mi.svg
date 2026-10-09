@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 816" width="1200" height="816" role="img" aria-label="Sobre mí: lo que aprendo creando software lo llevo al aula, y lo que aprendo en el aula me hace mejor desarrolladora. En el aula y en el código. 2 cursos escolares, 6 centros educativos de Madrid, 1 app desarrollada y vendida.">
+  <style>
+    .lab { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 700; letter-spacing: 3.5px; }
+    .ser { font-family: Georgia, 'Times New Roman', serif; }
+    .san { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+  </style>
+  <rect width="1200" height="816" rx="28" fill="#FAF5EF"/>
+  <rect x="1" y="1" width="1198" height="814" rx="27" fill="none" stroke="#E9D8CD" stroke-width="2"/>
+  <text x="72" y="84" class="lab" fill="#B96F5E">SOBRE MÍ</text>
+  <text x="72" y="142" class="ser" font-size="36" fill="#2B2523">Lo que aprendo creando software lo llevo al aula,</text>
+  <text x="72" y="188" class="ser" font-size="36" fill="#2B2523">y lo que aprendo en el aula me hace mejor desarrolladora.</text>
+  <rect x="72" y="214" width="96" height="4" rx="2" fill="#C17B6B"/>
+  <rect x="72" y="256" width="516" height="412" rx="20" fill="#FFFFFF" stroke="#E9D8CD" stroke-width="2"/>
+  <rect x="104" y="290" width="56" height="14" rx="7" fill="#C17B6B"/>
+  <rect x="168" y="290" width="28" height="14" rx="7" fill="#EBCDC2"/>
+  <text x="104" y="348" class="ser" font-size="30" fill="#2B2523">En el aula</text>
+  <rect x="104" y="381" width="10" height="10" rx="3" fill="#C17B6B"/>
+  <text x="130" y="394" class="san" font-size="20" fill="#3D3431">Imparto robótica educativa con LEGO WeDo a</text>
+  <text x="130" y="423" class="san" font-size="20" fill="#3D3431">alumnado de 1.º y 4.º de Primaria en Edde.</text>
+  <rect x="104" y="455" width="10" height="10" rx="3" fill="#C17B6B"/>
+  <text x="130" y="468" class="san" font-size="20" fill="#3D3431">Diseño programas y talleres orientados a</text>
+  <text x="130" y="497" class="san" font-size="20" fill="#3D3431">competencias STEM y pensamiento</text>
+  <text x="130" y="526" class="san" font-size="20" fill="#3D3431">computacional.</text>
+  <rect x="104" y="558" width="10" height="10" rx="3" fill="#C17B6B"/>
+  <text x="130" y="571" class="san" font-size="20" fill="#3D3431">Formo a docentes para que lleven</text>
+  <text x="130" y="600" class="san" font-size="20" fill="#3D3431">la robótica y la programación a</text>
+  <text x="130" y="629" class="san" font-size="20" fill="#3D3431">sus propias aulas.</text>
+  <rect x="612" y="256" width="516" height="412" rx="20" fill="#FFFFFF" stroke="#E9D8CD" stroke-width="2"/>
+  <rect x="644" y="290" width="40" height="14" rx="7" fill="#C17B6B"/>
+  <rect x="692" y="290" width="52" height="14" rx="7" fill="#EBCDC2"/>
+  <text x="644" y="348" class="ser" font-size="30" fill="#2B2523">En el código</text>
+  <rect x="644" y="381" width="10" height="10" rx="3" fill="#C17B6B"/>
+  <text x="670" y="394" class="san" font-size="20" fill="#3D3431">Desarrollo aplicaciones multiplataforma</text>
+  <text x="670" y="423" class="san" font-size="20" fill="#3D3431">con Swift, SwiftUI y TypeScript.</text>
+  <rect x="644" y="455" width="10" height="10" rx="3" fill="#C17B6B"/>
+  <text x="670" y="468" class="san" font-size="20" fill="#3D3431">He llevado una aplicación propia desde la</text>
+  <text x="670" y="497" class="san" font-size="20" fill="#3D3431">idea hasta su venta.</text>
+  <rect x="644" y="529" width="10" height="10" rx="3" fill="#C17B6B"/>
+  <text x="670" y="542" class="san" font-size="20" fill="#3D3431">Trabajo con metodología Scrum.</text>
+  <text x="72" y="760" class="ser" font-size="76" fill="#B96F5E">2</text>
+  <text x="134" y="730" class="san" font-size="20" fill="#2B2523" font-weight="600">cursos</text>
+  <text x="134" y="758" class="san" font-size="20" fill="#7A6A63">escolares</text>
+  <rect x="396" y="702" width="2" height="68" fill="#E9D8CD"/>
+  <text x="432" y="760" class="ser" font-size="76" fill="#B96F5E">6</text>
+  <text x="494" y="730" class="san" font-size="20" fill="#2B2523" font-weight="600">centros educativos</text>
+  <text x="494" y="758" class="san" font-size="20" fill="#7A6A63">de Madrid</text>
+  <rect x="756" y="702" width="2" height="68" fill="#E9D8CD"/>
+  <text x="792" y="760" class="ser" font-size="76" fill="#B96F5E">1</text>
+  <text x="854" y="730" class="san" font-size="20" fill="#2B2523" font-weight="600">app desarrollada</text>
+  <text x="854" y="758" class="san" font-size="20" fill="#7A6A63">y vendida</text>
+</svg>

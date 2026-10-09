@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 84" width="300" height="84" role="img" aria-label="Escríbeme por correo">
+  <rect x="2" y="2" width="296" height="80" rx="40" fill="#FAF5EF" stroke="#C17B6B" stroke-width="4"/>
+  <rect x="50" y="27" width="40" height="30" rx="6" fill="none" stroke="#A85F4E" stroke-width="3.6"/>
+  <path d="M52 31 L70 45 L88 31" fill="none" stroke="#A85F4E" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="108" y="52" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#2B2523">Escríbeme</text>
+</svg>

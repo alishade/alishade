@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Alisha Ibarra Bello — Formadora en programación y robótica educativa, desarrolladora de aplicaciones multiplataforma">
+  <style>
+    .name { font-family: Georgia, 'Times New Roman', serif; font-size: 76px; fill: #2B2523; letter-spacing: -1px; }
+    .role { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 700; fill: #B96F5E; letter-spacing: 3.5px; }
+    .hello { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 18px; fill: #8A7770; letter-spacing: 1px; }
+    .rule { transform-origin: 72px 0; animation: grow 1.1s cubic-bezier(.2,.7,.2,1) .2s both; }
+    .b { animation: slide .7s cubic-bezier(.2,.7,.2,1) both; }
+    .b1 { animation-delay: .25s; } .b2 { animation-delay: .4s; } .b3 { animation-delay: .55s; }
+    .b4 { animation-delay: .7s; } .b5 { animation-delay: .85s; }
+    .dot { animation: blink 2.4s ease-in-out 1.6s infinite; }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    @keyframes slide { from { opacity: 0; transform: translateX(28px); } to { opacity: 1; transform: translateX(0); } }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: .25; } }
+    @media (prefers-reduced-motion: reduce) { .rule, .b, .dot { animation: none; } }
+  </style>
+
+  <rect width="1200" height="340" rx="28" fill="#FAF5EF"/>
+  <rect x="1" y="1" width="1198" height="338" rx="27" fill="none" stroke="#E9D8CD" stroke-width="2"/>
+
+  <!-- texto -->
+  <text x="72" y="98" class="hello">Hola, soy</text>
+  <text x="72" y="178" class="name">Alisha Ibarra Bello</text>
+  <rect class="rule" x="72" y="204" width="96" height="4" rx="2" fill="#C17B6B"/>
+  <text x="72" y="250" class="role">PROGRAMACIÓN Y ROBÓTICA EDUCATIVA</text>
+  <text x="72" y="278" class="role">DESARROLLO DE APLICACIONES</text>
+
+  <!-- bloques de código, al estilo Scratch -->
+  <g>
+    <g class="b b1">
+      <rect x="880" y="62" width="236" height="36" rx="18" fill="#C17B6B"/>
+      <circle class="dot" cx="902" cy="80" r="6" fill="#FAF5EF"/>
+      <rect x="920" y="76" width="90" height="8" rx="4" fill="#FAF5EF" opacity=".55"/>
+    </g>
+    <g class="b b2">
+      <rect x="912" y="108" width="172" height="36" rx="18" fill="#DDA898"/>
+      <rect x="932" y="122" width="64" height="8" rx="4" fill="#FAF5EF" opacity=".7"/>
+      <rect x="1006" y="118" width="56" height="16" rx="8" fill="#FAF5EF"/>
+    </g>
+    <g class="b b3">
+      <rect x="912" y="154" width="204" height="36" rx="18" fill="#EBCDC2"/>
+      <rect x="932" y="168" width="110" height="8" rx="4" fill="#FAF5EF" opacity=".85"/>
+    </g>
+    <g class="b b4">
+      <rect x="944" y="200" width="132" height="36" rx="18" fill="#DDA898"/>
+      <rect x="964" y="210" width="16" height="16" rx="8" fill="#FAF5EF"/>
+      <rect x="990" y="214" width="62" height="8" rx="4" fill="#FAF5EF" opacity=".7"/>
+    </g>
+    <g class="b b5">
+      <rect x="880" y="246" width="188" height="36" rx="18" fill="#C17B6B"/>
+      <rect x="902" y="260" width="120" height="8" rx="4" fill="#FAF5EF" opacity=".55"/>
+    </g>
+  </g>
+</svg>

@@ -1,12 +1,16 @@
-<div align="center"> <img src="./banner.svg" alt="Alisha Ibarra Bello — Programación y robótica educativa · Desarrollo de aplicaciones" width="100%" />
+<div align="center">
+
+<img src="./banner.svg" alt="Alisha Ibarra Bello — Programación y robótica educativa · Desarrollo de aplicaciones" width="100%" />
 
 <br /><br />
 
-Enseño a niñas y niños de Primaria a programar y construir robots,<br /> y desarrollo aplicaciones con Swift y TypeScript.
+<img src="./intro.svg" width="100%" alt="Madrid. Enseño a niñas y niños de Primaria a programar y construir robots, y desarrollo aplicaciones con Swift y TypeScript." />
 
-<br />
+<br /><br />
 
-<a href="https://linkedin.com/in/alishaibell"><img src="https://img.shields.io/badge/LinkedIn-A85F4E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:alishaeditora@icloud.com"><img src="https://img.shields.io/badge/Correo-2B2523?style=for-the-badge&logo=icloud&logoColor=white" alt="Correo" /></a> <img src="https://img.shields.io/badge/Madrid-8A7770?style=for-the-badge" alt="Madrid" />
+<a href="https://linkedin.com/in/alishaibell"><img src="./boton-linkedin.svg" height="46" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:alishaeditora@icloud.com"><img src="./boton-correo.svg" height="46" alt="Escríbeme por correo" /></a>
 
 <br /><br />
 

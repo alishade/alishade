@@ -3,9 +3,9 @@
  "from": "2025-10-19",
  "to": "2026-10-18",
  "stats": {
-  "total": 7,
-  "active_days": 3,
-  "current_streak": 0,
+  "total": 8,
+  "active_days": 4,
+  "current_streak": 1,
   "longest_streak": 1,
   "best_day": {
    "date": "2026-10-09",
@@ -24,7 +24,7 @@
    "2026-07": 0,
    "2026-08": 0,
    "2026-09": 0,
-   "2026-10": 7
+   "2026-10": 8
   }
  },
  "days": [
@@ -1850,8 +1850,8 @@
   },
   {
    "date": "2026-10-18",
-   "level": 0,
-   "count": 0
+   "level": 4,
+   "count": 1
   }
  ]
 }

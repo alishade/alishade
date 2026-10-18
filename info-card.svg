@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="417" viewBox="0 0 490 417" role="img" aria-label="Ficha de Alisha: rol, stack e hitos">
+<style>.l{opacity:0;animation:in .45s ease-out forwards}@keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}</style>
+<rect width="100%" height="100%" rx="10" fill="#100E24"/>
+<path d="M0 10a10 10 0 0 1 10-10h470a10 10 0 0 1 10 10v16H0z" fill="#1B1838"/>
+<circle cx="18" cy="13" r="5" fill="#ff5f56"/><circle cx="34" cy="13" r="5" fill="#ffbd2e"/><circle cx="50" cy="13" r="5" fill="#27c93f"/>
+<text x="245" y="17" text-anchor="middle" fill="#A7A1CC" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11">alisha@github: ~ $ neofetch</text>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#F5F3FF">
+<g class="l" style="animation-delay:0.50s"><text x="20" y="50"><tspan fill="#A07CFF" font-weight="700">alisha</tspan><tspan fill="#A7A1CC">@</tspan><tspan fill="#FFC83D" font-weight="700">github</tspan></text></g>
+<g class="l" style="animation-delay:0.61s"><rect x="20" y="58" width="450" height="1" fill="#352F63"/></g>
+<g class="l" style="animation-delay:0.72s"><text x="20" y="81"><tspan fill="#A07CFF" font-weight="700">Rol</tspan></text><text x="102" y="81" fill="#F5F3FF">Docente de robótica + desarrolladora de apps</text></g>
+<g class="l" style="animation-delay:0.83s"><text x="20" y="102"><tspan fill="#A07CFF" font-weight="700">Base</tspan></text><text x="102" y="102" fill="#F5F3FF">Madrid, España</text></g>
+<g class="l" style="animation-delay:0.94s"><text x="20" y="123"><tspan fill="#FFC83D" font-weight="700">Ahora</tspan></text><text x="102" y="123" fill="#F5F3FF">Robótica educativa con LEGO WeDo en Primaria</text></g>
+<g class="l" style="animation-delay:1.05s"><text x="20" y="144"></text><text x="102" y="144" fill="#F5F3FF">Formo a docentes en programación y robótica</text></g>
+<g class="l" style="animation-delay:1.16s"><text x="20" y="165"><tspan fill="#FFC83D" font-weight="700">Estudio</tspan></text><text x="102" y="165" fill="#F5F3FF">TS en Educación Infantil · EPSUM (en curso)</text></g>
+<g class="l" style="animation-delay:1.27s"><text x="20" y="186"><tspan fill="#5C8DFF" font-weight="700">Antes</tspan></text><text x="102" y="186" fill="#F5F3FF">DAM · Upgrade Hub (2023 – 2025)</text></g>
+<g class="l" style="animation-delay:1.38s"><text x="20" y="207"><tspan fill="#3FD68F" font-weight="700">Stack</tspan></text><text x="102" y="207" fill="#F5F3FF">Swift · SwiftUI · TypeScript · Scrum</text></g>
+<g class="l" style="animation-delay:1.49s"><text x="20" y="228"><tspan fill="#3FD68F" font-weight="700">Aula</tspan></text><text x="102" y="228" fill="#F5F3FF">Scratch · MakeCode Arcade · LEGO WeDo</text></g>
+<g class="l" style="animation-delay:1.60s"><text x="20" y="249"><tspan fill="#FF7A59" font-weight="700">Hitos</tspan></text><text x="102" y="249" fill="#F5F3FF">1 app de salud creada, lanzada y vendida</text></g>
+<g class="l" style="animation-delay:1.71s"><text x="20" y="270"></text><text x="102" y="270" fill="#F5F3FF">6 centros educativos · 2 cursos escolares</text></g>
+<g class="l" style="animation-delay:1.82s"><text x="20" y="291"><tspan fill="#FF6FB5" font-weight="700">Idiomas</tspan></text><text x="102" y="291" fill="#F5F3FF">ES nativo · EN / CA intermedio</text></g>
+<g class="l" style="animation-delay:1.93s"><text x="20" y="312"></text><text x="102" y="312" fill="#F5F3FF">FR · DE · EU · FI · JA básico</text></g>
+<g class="l" style="animation-delay:2.04s"><text x="20" y="333"><tspan fill="#A07CFF" font-weight="700">Contacto</tspan></text><text x="102" y="333" fill="#F5F3FF">linkedin.com/in/alishaibell</text></g>
+<g class="l" style="animation-delay:2.15s"><text x="20" y="354"></text><text x="102" y="354" fill="#F5F3FF">alishaeditora@icloud.com</text></g>
+<g class="l" style="animation-delay:2.26s"><rect x="20" y="367" width="26" height="14" rx="3" fill="#A07CFF"/><rect x="50" y="367" width="26" height="14" rx="3" fill="#FFC83D"/><rect x="80" y="367" width="26" height="14" rx="3" fill="#5C8DFF"/><rect x="110" y="367" width="26" height="14" rx="3" fill="#3FD68F"/><rect x="140" y="367" width="26" height="14" rx="3" fill="#FF7A59"/><rect x="170" y="367" width="26" height="14" rx="3" fill="#FF6FB5"/></g>
+</g>
+</svg>

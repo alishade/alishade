@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+# la foto original y la intermedia se quedan en local
+source-photo.*
+source-prepped.png

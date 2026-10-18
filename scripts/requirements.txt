@@ -1,0 +1,8 @@
+requests==2.32.3
+beautifulsoup4==4.12.3
+# solo para el retrato (no hace falta en el workflow diario):
+pillow
+numpy
+opencv-python-headless
+# opcional: mejor recorte del fondo (descarga un modelo de ~170 MB)
+# rembg

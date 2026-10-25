@@ -1,12 +1,12 @@
 {
  "username": "alishade",
- "from": "2025-10-19",
- "to": "2026-10-24",
+ "from": "2025-10-26",
+ "to": "2026-10-25",
  "stats": {
-  "total": 14,
-  "active_days": 9,
-  "current_streak": 6,
-  "longest_streak": 6,
+  "total": 15,
+  "active_days": 10,
+  "current_streak": 7,
+  "longest_streak": 7,
   "best_day": {
    "date": "2026-10-09",
    "count": 5
@@ -24,45 +24,10 @@
    "2026-07": 0,
    "2026-08": 0,
    "2026-09": 0,
-   "2026-10": 14
+   "2026-10": 15
   }
  },
  "days": [
-  {
-   "date": "2025-10-19",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-20",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-21",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-22",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-23",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-24",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-25",
-   "level": 0,
-   "count": 0
-  },
   {
    "date": "2025-10-26",
    "level": 0,
@@ -1880,6 +1845,11 @@
   },
   {
    "date": "2026-10-24",
+   "level": 2,
+   "count": 1
+  },
+  {
+   "date": "2026-10-25",
    "level": 0,
    "count": 0
   }

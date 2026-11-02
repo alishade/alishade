@@ -1,12 +1,12 @@
 {
  "username": "alishade",
  "from": "2025-11-02",
- "to": "2026-11-01",
+ "to": "2026-11-02",
  "stats": {
-  "total": 22,
-  "active_days": 17,
-  "current_streak": 14,
-  "longest_streak": 14,
+  "total": 23,
+  "active_days": 18,
+  "current_streak": 15,
+  "longest_streak": 15,
   "best_day": {
    "date": "2026-10-09",
    "count": 5
@@ -24,7 +24,7 @@
    "2026-08": 0,
    "2026-09": 0,
    "2026-10": 22,
-   "2026-11": 0
+   "2026-11": 1
   }
  },
  "days": [
@@ -1850,6 +1850,11 @@
   },
   {
    "date": "2026-11-01",
+   "level": 2,
+   "count": 1
+  },
+  {
+   "date": "2026-11-02",
    "level": 0,
    "count": 0
   }

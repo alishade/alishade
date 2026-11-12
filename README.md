@@ -1,6 +1,5 @@
-<!-- Diseño vectorial local. Edita assets/profile.svg para cambiar los textos. -->
 <p align="center">
-  <img src="assets/profile.svg" width="100%" alt="Alisha Ibarra Bello — Alishade. Desarrolladora multiplataforma, profesora de robótica y estudiante de Educación Infantil en Madrid. Tecnologías: Swift, Java, Python, React y Docker. Herramientas creativas: Figma y Final Cut Pro." />
+  <img src="assets/profile.png" width="100%" alt="Alisha Ibarra Bello — Alishade. Desarrolladora multiplataforma, profesora de robótica y estudiante de Educación Infantil en Madrid. Tecnologías: Swift, Java, Python, React y Docker. Herramientas creativas: Figma y Final Cut Pro." />
 </p>
 
 <p align="center">

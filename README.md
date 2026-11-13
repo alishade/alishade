@@ -1,54 +1,54 @@
 <p align="center">
-  <img src="assets/hero.png" width="100%" alt="Hola, soy Alisha Ibarra Bello, Alishade. Conecto código, diseño y educación. Desarrolladora multiplataforma, profesora de robótica y estudiante de Educación Infantil en Madrid." />
+  <img src="assets/blueprint-hero.png" width="100%" alt="Alishade — Alisha Ibarra Bello. Desarrolladora multiplataforma en Madrid. Conecto código, diseño y educación." />
 </p>
 
 <p align="center">
-  <a href="mailto:alishaibarra@alishade.studio"><strong>Hablemos ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/alishade?tab=repositories"><strong>Explora mis repositorios ↗</strong></a>
+  <a href="#perfil">Perfil</a> &nbsp; / &nbsp;
+  <a href="#stack">Stack</a> &nbsp; / &nbsp;
+  <a href="#areas">Áreas de trabajo</a> &nbsp; / &nbsp;
+  <a href="#contacto">Contacto</a>
 </p>
 
-<p align="center">
-  Me interesa crear aplicaciones, dar forma a ideas y compartir lo que aprendo.
-</p>
+<a id="perfil"></a>
 
-<p align="center">
-  <img src="assets/focus.png" width="100%" alt="Tres formas de crear: desarrollo, con aplicaciones e interfaces; diseño, con Figma y Final Cut Pro; y educación, con robótica en el aula y Educación Infantil." />
-</p>
-
-<p align="center">
-  <img src="assets/toolbox.png" width="100%" alt="Mi caja de herramientas: Swift, Java, Python, React, Docker, Figma y Final Cut Pro. Siempre aprendiendo. Siempre creando." />
-</p>
-
-<details>
-<summary><strong>Leer mi perfil en texto</strong></summary>
-
-### Hola, soy Alisha
+## 01 / Perfil
 
 Soy **Alisha Ibarra Bello**, también conocida como **Alishade**. Soy desarrolladora multiplataforma, profesora de robótica y estudiante de Educación Infantil en Madrid.
 
-Me interesa conectar el código, el diseño y la educación: crear aplicaciones, dar forma a ideas y compartir lo que aprendo.
+Mi punto de encuentro está entre el **código, el diseño y la educación**: crear aplicaciones, dar forma a ideas y compartir lo que aprendo.
 
-### Tres formas de crear
+<a id="stack"></a>
 
-- **Construir.** Aplicaciones e interfaces con atención al detalle.
-- **Dar forma.** Ideas que toman forma con Figma y Final Cut Pro.
-- **Compartir.** Robótica en el aula y Educación Infantil.
+## 02 / Stack
 
-### Mi caja de herramientas
+<p align="center">
+  <img src="assets/blueprint-stack.png" width="100%" alt="Mi stack: Swift, Java y Python como lenguajes; React para interfaces; Docker para contenedores; Figma para diseño y Final Cut Pro para edición de vídeo." />
+</p>
 
 | Área | Tecnologías y herramientas |
-| --- | --- |
-| Lenguajes | Swift · Java · Python |
-| Interfaces | React |
-| Contenedores | Docker |
-| Diseño | Figma |
-| Edición de vídeo | Final Cut Pro |
+| :--- | :--- |
+| Lenguajes | **Swift** · **Java** · **Python** |
+| Interfaces | **React** |
+| Contenedores | **Docker** |
+| Diseño | **Figma** |
+| Edición de vídeo | **Final Cut Pro** |
 
-*Siempre aprendiendo. Siempre creando.*
+<a id="areas"></a>
 
-**Contacto:** [alishaibarra@alishade.studio](mailto:alishaibarra@alishade.studio)
+## 03 / Áreas de trabajo
 
-**Repositorios:** [github.com/alishade](https://github.com/alishade?tab=repositories)
+- **Desarrollo · Construir.** Aplicaciones e interfaces con atención al detalle.
+- **Diseño · Dar forma.** Ideas que toman forma con Figma y Final Cut Pro.
+- **Educación · Compartir.** Robótica en el aula y aprendizaje en Educación Infantil.
 
-</details>
+<a id="contacto"></a>
+
+## 04 / Explora y conecta
+
+Los proyectos y el código están en [mis repositorios de GitHub](https://github.com/alishade?tab=repositories).
+
+Si quieres hablar sobre una idea, puedes escribirme a **[alishaibarra@alishade.studio](mailto:alishaibarra@alishade.studio)**.
+
+<p align="center">
+  <img src="assets/blueprint-footer.png" width="100%" alt="Siempre aprendiendo. Siempre creando. Alishade." />
+</p>

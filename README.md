@@ -1,54 +1,48 @@
+# Hola, soy Alisha 👋
+
 <p align="center">
-  <img src="assets/blueprint-hero.png" width="100%" alt="Alishade — Alisha Ibarra Bello. Desarrolladora multiplataforma en Madrid. Conecto código, diseño y educación." />
+  <img src="assets/avatar.png" width="190" alt="Avatar ilustrado de Alisha Ibarra Bello, Alishade." />
 </p>
 
 <p align="center">
-  <a href="#perfil">Perfil</a> &nbsp; / &nbsp;
-  <a href="#stack">Stack</a> &nbsp; / &nbsp;
-  <a href="#areas">Áreas de trabajo</a> &nbsp; / &nbsp;
-  <a href="#contacto">Contacto</a>
+  <strong>Desarrolladora multiplataforma · Profesora de robótica</strong><br />
+  Estudiante de Educación Infantil · Madrid
 </p>
-
-<a id="perfil"></a>
-
-## 01 / Perfil
-
-Soy **Alisha Ibarra Bello**, también conocida como **Alishade**. Soy desarrolladora multiplataforma, profesora de robótica y estudiante de Educación Infantil en Madrid.
-
-Mi punto de encuentro está entre el **código, el diseño y la educación**: crear aplicaciones, dar forma a ideas y compartir lo que aprendo.
-
-<a id="stack"></a>
-
-## 02 / Stack
 
 <p align="center">
-  <img src="assets/blueprint-stack.png" width="100%" alt="Mi stack: Swift, Java y Python como lenguajes; React para interfaces; Docker para contenedores; Figma para diseño y Final Cut Pro para edición de vídeo." />
+  <a href="https://github.com/alishade?tab=repositories">Mis repositorios</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:alishaibarra@alishade.studio">Hablemos</a>
 </p>
+
+## Código, diseño y educación
+
+Soy **Alisha Ibarra Bello**, también conocida como **Alishade**. Me interesa conectar la tecnología con la creatividad y el aprendizaje: crear aplicaciones, dar forma a ideas y compartir lo que aprendo.
+
+- **Construir.** Desarrollo aplicaciones e interfaces con atención al detalle.
+- **Dar forma.** Trabajo las ideas desde el diseño y la creación de contenido visual.
+- **Compartir.** Enseño robótica y sigo formándome en Educación Infantil.
+
+## Mi stack
 
 | Área | Tecnologías y herramientas |
 | :--- | :--- |
-| Lenguajes | **Swift** · **Java** · **Python** |
-| Interfaces | **React** |
-| Contenedores | **Docker** |
-| Diseño | **Figma** |
-| Edición de vídeo | **Final Cut Pro** |
+| Lenguajes | `Swift` · `Java` · `Python` |
+| Interfaces | `React` |
+| Contenedores | `Docker` |
+| Diseño | `Figma` |
+| Edición de vídeo | `Final Cut Pro` |
 
-<a id="areas"></a>
+## Explora lo que hago
 
-## 03 / Áreas de trabajo
+En [mis repositorios](https://github.com/alishade?tab=repositories) encontrarás el código que comparto en GitHub.
 
-- **Desarrollo · Construir.** Aplicaciones e interfaces con atención al detalle.
-- **Diseño · Dar forma.** Ideas que toman forma con Figma y Final Cut Pro.
-- **Educación · Compartir.** Robótica en el aula y aprendizaje en Educación Infantil.
+## Conectemos
 
-<a id="contacto"></a>
+¿Tienes una idea relacionada con el desarrollo, el diseño o la educación? Puedes escribirme a **[alishaibarra@alishade.studio](mailto:alishaibarra@alishade.studio)**.
 
-## 04 / Explora y conecta
+---
 
-Los proyectos y el código están en [mis repositorios de GitHub](https://github.com/alishade?tab=repositories).
+<p align="center"><em>Siempre aprendiendo. Siempre creando.</em></p>
 
-Si quieres hablar sobre una idea, puedes escribirme a **[alishaibarra@alishade.studio](mailto:alishaibarra@alishade.studio)**.
-
-<p align="center">
-  <img src="assets/blueprint-footer.png" width="100%" alt="Siempre aprendiendo. Siempre creando. Alishade." />
-</p>
+<sub>Inspirado en el template 177 de <a href="https://github.com/M0nica">Monica Powell</a>, incluido en <a href="https://github.com/Ashfaq-Riyaldeen/199-best-github-profile-readme-templates">199 Best GitHub Profile README Templates</a>. Adaptado para Alishade.</sub>
